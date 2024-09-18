@@ -7,6 +7,8 @@ def fun_div(num_1,num_2):
 def fun_sum(num_1,num_2):
    return float(num_1) + float(num_2)
 
+def fun_mult(num_1,num_2):
+   return float(num_1) * float(num_2)
 
 def main():
     line = str(input()).split()
@@ -17,5 +19,7 @@ def main():
       return fun_minus(num_1,num_2)
     if operator == "/":
       return fun_div(num_1,num_2)
-    if operator == "+':
+    if operator == "+":
       return fun_sum(num_1,num_2)
+    if operator == "*":
+      return fun_mult(num_1,num_2)
