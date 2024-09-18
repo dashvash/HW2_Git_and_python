@@ -8,3 +8,13 @@
 ## Описание функций
 
 ## Разработчики
+
+[Вашунина Дарья](https://github.com/dashvash)
+
+[Куленич Виктория](https://github.com/vickulenich)
+
+[Куликов Егор](https://github.com/kulikovegor33)
+
+[Михайлова Александра](https://github.com/Shurik-bio)
+
+![alt text](developers.png)
